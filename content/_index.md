@@ -7,12 +7,17 @@ Hola ✌️  soy el explorer Martin y este es mi blog personal donde compartiré
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-Mis expectativas para este proyecto son:
+-Mis expectativas para este proyecto son:
 
 -Aprender a utilizar Git en linea de comandos sin la interfaz grafica.
+
 -Mejorar mis conocimientos en Front.
+
 -Aprender como funciona y se desarrolla el backend.
+
 -Conocer herramientas útiles a mi vida profesional como desarrollador de software.
+
 -Conseguir mi primer experiencia laboral creando código.
--Ser el mejor.
+
+Y por supuesto ser el mejor.
 🚀

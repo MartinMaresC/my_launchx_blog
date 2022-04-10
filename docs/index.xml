@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Martín Mares</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://martinmaresc.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://martinmaresc.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recuento de lo Aprendido en Launch X</title>
+      <link>https://martinmaresc.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinmaresc.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola!
+Lo que he aprendido hasta el día de hoy a lo largo de las sesiones de desarrollo en Launch X es lo siguiente:
+-UI/UX.
+Lo primero que aprendimos fue sobre la importancia de orientar todos los esfuerzos del desarrollo hacia la satisfacción del cliente y eso solo se consigue con una buena planeación que parte de los diseños de interfaz de usuario, así como de la experiencia de usuario.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://martinmaresc.github.io/my_launchx_blog/posts/intro/</link>

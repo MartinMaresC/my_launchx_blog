@@ -9,13 +9,12 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy estudiante de Desarrollo de Software en el último semestre.
+> Me enfoco en el desarrollo web.
+> Estoy buscando una primera oportunidad para iniciar mi carrera como profesional.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Datos curiosos: ** Hablo inglés y francés fluido, además estoy aprendiendo Japones.
+Soy timido, pero la gente suele apreciarme por mis ideas originales y por mi optimismo.
+Me gustan mucho las empresas cuya diversidad es su principal razón de ser porque suelo desempeñarme mejor.
+Lo mejor de trabajar en equipo es el crecimiento que ocurre entre los integrantes cuando todos aportan algo valioso.
 
